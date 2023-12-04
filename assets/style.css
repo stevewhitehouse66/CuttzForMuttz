@@ -35,3 +35,16 @@ footer {background-color: pink;
     border-radius: 25px; 
     padding-left: 15px;
     padding-bottom: 5px;}
+    .logo-frame {
+      float: right;
+      width: 110px;
+      height: 110px;
+      border: 3px solid black;
+      overflow: hidden;
+      border-radius: 50%;
+      background: white;
+      margin: 5px;
+      padding: 15px 10px;
+    }
+    
+  
