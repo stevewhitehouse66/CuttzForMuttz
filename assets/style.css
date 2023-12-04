@@ -7,7 +7,7 @@ body {
     color: #43455c;
     font-size: large;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;}
-footer, #footer {background-color: pink;
+footer {background-color: pink;
       text-align: center;
     height:76px;}
   
