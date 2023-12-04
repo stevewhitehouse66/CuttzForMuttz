@@ -6,7 +6,7 @@ body {
     margin: 5;
     background-color: light-pink;
     color: #43455c;
-    font-size: large;
+    font-size: em+2;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;}
 footer {background-color: pink;
       text-align: center;
