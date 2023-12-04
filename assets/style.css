@@ -3,7 +3,7 @@ height:200px;
 body {
     min-width: 600px;
     margin: 5;
-    background-color: #f7ee5S;
+    background-color: light-pink;
     color: #43455c;
     font-size: large;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;}
@@ -32,4 +32,3 @@ footer, #footer {background-color: pink;
     border-radius: 25px; 
     padding-left: 15px;
     padding-bottom: 5px;}
-  
