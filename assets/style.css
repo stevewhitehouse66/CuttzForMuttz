@@ -1,4 +1,4 @@
-header {background-color: rgb(248, 235, 238);}
+header {background-color: pink;}
 body {
     min-width: 600px;
     margin: 5;
@@ -6,7 +6,7 @@ body {
     color: #43455c;
     font-size: large;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;}
-footer, #footer {background-color: rgb(248, 235, 238);
+footer, #footer {background-color: pink;
       text-align: center;
     height:76px'}
   
