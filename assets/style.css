@@ -12,7 +12,12 @@ color: white;
 nav {text-align: center;
   color: #edd7c3;
   text-shadow: none;
-  font-size:normal;}
+  font-size:normal;} 
+   body > div {height:300px; width:100%; font-size:normal;
+    display: grid;
+    align-items: center; 
+    grid-template-columns:  1fr 1fr;
+    column-gap: 5px;}  
 body {
     min-width: 600px;
     margin: 5;
@@ -25,11 +30,7 @@ footer {background-color: #ddbdc3;
     height: 76px;}
   
   
-   body > div {height:300px; width:100%; font-size:normal;
-    display: grid;
-    align-items: center; 
-    grid-template-columns:  1fr 1fr;
-    column-gap: 5px;}  
+ 
   h1  { 
     font-weight: bold;
     font-size:normal;
@@ -38,9 +39,11 @@ footer {background-color: #ddbdc3;
 
   .img-right  {
     float: right;    
-     margin: 0 0 0 15px;
+     margin: 0 10px 0 0;
+     vertical-align: top
     }
-  .txt-left {float: left;}
+  .img-right {float: left;
+  }
   .txt-right {float: right;}
   #contact-box {width: 190px; height: 120px; 
     background-color:white; 
