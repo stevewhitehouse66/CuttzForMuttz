@@ -1,14 +1,13 @@
-header {background-color: pink;
+header {background-color: #ddbdc3;
   text-align: center;
 height:200px;
-color: white;
+color: #edd7c3;
   text-shadow:
    -1px -1px 0 black,  
     1px -1px 0 black,
     -1px 1px 0 black,
      1px 1px 0 black;}
-     header > div {width: 60%:
-    height: 150px}
+
 nav {text-align: center;}
 body {
     min-width: 600px;
@@ -17,9 +16,9 @@ body {
     color: #43455c;
     font-size: em4;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;}
-footer {background-color: pink;
+footer {background-color: #ddbdc3;
       text-align: center;
-    height:76px;}
+    height: 76px;}
   
   h1 #top { 
     font-weight: bold;
