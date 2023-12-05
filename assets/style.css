@@ -24,7 +24,7 @@ footer {background-color: #ddbdc3;
     height: 76px;}
   
   
-  div {height:300px; width:100%; font-size:normal;
+  div > body{height:300px; width:100%; font-size:normal;
     display: grid;
     align-items: center; 
     grid-template-columns:  1fr 1fr;
