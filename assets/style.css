@@ -8,46 +8,7 @@ color: white;
     1px -1px 0 black,
     -1px 1px 0 black,
      1px 1px 0 black;}
-
-nav {text-align: center;
-  color: #edd7c3;
-  text-shadow: none;
-  font-size:normal;} 
-   body > div {height:320px; width:100%; font-size:normal;
-    display: grid;
-    align-items: center; 
-    grid-template-columns:  1fr 1fr;
-    column-gap: 5px;}  
-body {
-    min-width: 600px;
-    margin: 5;
-    background-color: light-pink;
-    color: #43455c;
-    font-size: large;
-    font-family: "PT Sans", Calibri, Tahoma, sans-serif;}
-footer {background-color: #ddbdc3;
-      text-align: center;
-    height: 76px;}
-  
-  
- 
-  h1  { 
-    font-weight: bold;
-    font-size:normal;
-    text-align: center;}
-
-  .img-left{float: left;}
-  .img-right{float: right;}
-
-  #contact-box {width: 190px; height: 120px; 
-    background-color:white; 
-    border-width: 1px; 
-    border: 2px solid rgb(110, 41, 73);
-    margin: 5px;
-    border-radius: 25px; 
-    padding-left: 15px;
-    padding-bottom: 5px;}
-    .logo-frame {
+     .logo-frame {
       position: relative;
       top:-75px; 
       right:10px;
@@ -61,5 +22,52 @@ footer {background-color: #ddbdc3;
       margin: 5px;
       padding: 10px 10px;
     }
-    
+
+
+
+
+.nav {
+  color: #edd7c3;
+  text-shadow: none;
+  font-size:normal;
+  float: none;}
+
+body {
+    min-width: 600px;
+    margin: 5;
+    background-color: light-pink;
+    color: #43455c;
+    font-size: large;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;}
+footer { background-color: #ddbdc3;
+      height: 66px;
+    float: none;}
   
+    .container {
+      height:300; 
+      width: 100%;
+      font-size: 25px;
+      display: flex;
+      gap: .5em;
+      align-items: center;
+      justify-content: left;}
+ 
+  h1  { 
+    font-weight: bold;
+    font-size:normal;
+    text-align: center;}
+
+ 
+
+  #contact-box {width: 190px; height: 120px; 
+    background-color:white; 
+    border-width: 1px; 
+    border: 2px solid rgb(110, 41, 73);
+    margin: 5px;
+    border-radius: 25px; 
+    padding-left: 15px;
+    padding-bottom: 5px;}
+   
+    
+  .footer-div {float: clear; height:50px;
+  text-align: center;}
