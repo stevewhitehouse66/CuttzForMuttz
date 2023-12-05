@@ -13,7 +13,7 @@ nav {text-align: center;
   color: #edd7c3;
   text-shadow: none;
   font-size:normal;} 
-   body > div {height:300px; width:100%; font-size:normal;
+   body > div {height:320px; width:100%; font-size:normal;
     display: grid;
     align-items: center; 
     grid-template-columns:  1fr 1fr;
@@ -23,7 +23,7 @@ body {
     margin: 5;
     background-color: light-pink;
     color: #43455c;
-    font-size: em4;
+    font-size: large;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;}
 footer {background-color: #ddbdc3;
       text-align: center;
@@ -35,16 +35,10 @@ footer {background-color: #ddbdc3;
     font-weight: bold;
     font-size:normal;
     text-align: center;}
- 
 
-  .img-right  {
-    float: right;    
-     margin: 0 10px 0 0;
-     vertical-align: top
-    }
-  .img-right {float: left;
-  }
-  .txt-right {float: right;}
+  .img-left{float: left;}
+  .img-right{float: right;}
+
   #contact-box {width: 190px; height: 120px; 
     background-color:white; 
     border-width: 1px; 
