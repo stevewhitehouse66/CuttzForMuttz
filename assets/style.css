@@ -28,10 +28,8 @@ footer {background-color: #ddbdc3;
   h1  { 
     font-weight: bold;
     
-    text-align: center;
-  }
-  li  {font-size: large;
-  }
+    text-align: center;}
+ 
 
   .img-right  {
     float: right;    
