@@ -27,7 +27,7 @@ footer {background-color: #ddbdc3;
   div {height:300px; width:100%; font-size:normal;
     display: grid;
     align-items: center; 
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns:  1fr 1fr;
     column-gap: 5px;}  
   h1  { 
     font-weight: bold;
